@@ -1,0 +1,18 @@
+.mod-panel {width: 100%; max-width: 740px; min-width: 580px; margin: 0 auto 30px; _width: 690px; }
+.mod-panel .hd{padding-top: 25px; margin-bottom: 30px; line-height: 30px; text-align: center; }
+.mod-panel .hd h1{font-size: 24px; color:#212121; }
+.mod-panel .bd{width: 500px; margin:0 auto 20px; }
+.mod-panel .bd p{line-height: 30px; }
+.mod-panel .input-text{width: 60px; height: 25px; margin-right:20px; border: 1px solid #ebebeb; padding: 4px 8px; line-height: 20px; outline: none; }
+.mod-panel .input-button {height: 35px; width: 100px; margin: 15px 0; background: #3ae078; border: medium none; line-height: 35px; vertical-align: middle; font-size: 16px; color: #fff; cursor: pointer; outline: none; }
+.mod-panel textarea{display: block; width: 90%; height: 220px; padding:5px 10px; border: 1px solid #ebebeb; resize: none; outline: none; }
+.mod-panel .ft{padding-top: 20px; border-top:1px dotted #e0e0e0; }
+.mod-panel .about{padding: 0 20px; margin-bottom: 20px; }
+.mod-panel .about p{margin-bottom: 5px; line-height: 24px; text-indent: 2em; }
+
+@media screen and (max-width:719px){
+	.mod-panel {width: 100%; max-width: 700px; margin: 0 auto;min-width: inherit;}
+	.mod-panel .bd{width:90%; margin:0 auto; }
+	.mod-panel .input-text{width:40px;}
+	.mod-panel textarea{height:180px;}
+}
