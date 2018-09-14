@@ -6,3 +6,5 @@
 <a href="https://fire-hydrant.github.io/Bigyoung/MrMiner/index.html">the bigyoung miner</a>
 
 <a href="https://fire-hydrant.github.io/Bigyoung/FuseCat/index.html">a rampant cat</a>
+
+<a href="https://fire-hydrant.github.io/Bigyoung/MotoBike/index.html">crazymoto</a>
